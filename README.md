@@ -1,5 +1,5 @@
 # 03Bots
-Source code of my automated accounts on social media, in Tracery format.
+Source code of my automated accounts on social media, in [Tracery](https://github.com/galaxykate/tracery) format.
 
 Luigi as a Tank: [Twitter](https://twitter.com/luigiasatank), [Tumblr](https://luigiasatank.tumblr.com), [Mastodon](https://mas.to/@luigiasatank), [Bluesky](https://bsky.app/profile/luigiasatank.bsky.social)
 
