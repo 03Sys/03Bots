@@ -10,5 +10,5 @@ CV03BOT: [Twitter](https://twitter.com/CV03BOT), [Bluesky](https://bsky.app/prof
 HaSeul Bot: [Twitter](https://twitter.com/HaSeulBot), [Bluesky](https://bsky.app/profile/haseul.bluesky.bot)
 
 ## Missing source codes:
-- [Podel Bot](https://twitter.com/Podel_bot) (Full old code)
+- [Podel Bot](https://twitter.com/Podel_bot) (Full old code, not in [Tracery](https://github.com/galaxykate/tracery) format)
 - YmmBot (Twitter)
